@@ -138,7 +138,7 @@ print "Minimum List = " , minlist
 print "Minimum List Average = " , sum(minlist) / len(minlist)
 '''
 ----------------
---Assignment 4--
+--Assignment 6--
 ----Output------
 Maximum List =  [125, 92, 100, 63, 80, 59]
 Maximum List Average =  86
